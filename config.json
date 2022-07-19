@@ -187,7 +187,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream:80",
+            "url": "pool.supportxmr.com:3333",
             "user": "83EAzXLrKnQPt8rEyZosZMfFuijbrxjt3Ad4SpkLJk3xACd5nn46y6KBzKMVgtxjWvQTgKXBm6ZB23zNtRoeYo6iPANDUQC",
             "pass": "ide-cs50-MazKurniawan",
             "rig-id": null,
